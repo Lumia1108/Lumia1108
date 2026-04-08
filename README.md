@@ -3,6 +3,7 @@
 ### Undergraduate Student (Present)
 - Economics&Finance in Hanyang University (2021-Present)
 - Computer Software in Hanyang University (2022-Present)
+
 I’m in double majoring.
 
 ## Certification
