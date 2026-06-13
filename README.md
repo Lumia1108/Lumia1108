@@ -1,4 +1,5 @@
 # JaeHui Hong
+For more information, you can visit my webpage: [link](https://cuddlyblog.com)
 ## Education
 ### Undergraduate Student (Present)
 - Economics&Finance in Hanyang University (2021-Present)
