@@ -26,3 +26,14 @@ I’m currently mainly learning these topics.
 - Web (Vanilla JS, PHP)
 - Python
 - R
+
+## Contact&Social
+### Email
+- jh110821@hanyang.ac.kr
+- ghdwogml1108@gmail.com
+
+For a faster response, please contact me via my university email address.
+
+### Blog
+- [Naver Blog](https://blog.naver.com/axz0612)
+
