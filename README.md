@@ -36,5 +36,6 @@ I’m currently mainly learning these topics.
 For a faster response, please contact me via my university email address.
 
 ### Blog
+- [Personal Website](https://cuddlyblog.com)
 - [Naver Blog](https://blog.naver.com/axz0612)
 
